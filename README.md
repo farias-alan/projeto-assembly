@@ -2,6 +2,6 @@
 Projeto da materia de Arquitetura e Organização de Computadores, com o objetivo de por em prática o que foi aprendido em sala. No projeto foi usado a linguagem Assembly MIPS.
 
 Alunos:
-Antônio Alan Oliveira Farias
-Adenilson da Silva Santos
+Antônio Alan Oliveira Farias\n
+Adenilson da Silva Santos\n
 Isvan Gustavo da Silva Santos
