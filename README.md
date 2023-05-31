@@ -5,7 +5,7 @@ Alunos:
 <p></p>
 Antônio Alan Oliveira Farias
 <p></p>
-Adenilson da Silva Santos
+Adenilson Silva dos Santos
 <p></p>
 Isvan Gustavo da Silva Santos
 <p></p>
